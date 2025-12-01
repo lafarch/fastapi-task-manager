@@ -1,6 +1,6 @@
 # Task Manager API
 
-A simple and clean REST API built with FastAPI for managing tasks. Perfect for learning FastAPI fundamentals and building your portfolio.
+A simple and clean REST API built with FastAPI for managing tasks. Perfect for learning FastAPI fundamentals.
 
 ## Features
 
